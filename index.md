@@ -38,3 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Explanation
+
+Right now, we're just having a look at how all this works, the fact that this exists means that we can edit the webpage straight from Github
